@@ -54,6 +54,7 @@ dependencies:
   animated_toggle_switch: ^0.8.3
   path_provider: ^2.1.4
   flutter_otp_text_field: ^1.2.0
+  shared_preferences: ^2.3.3
 
 dev_dependencies:
   flutter_test:
